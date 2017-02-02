@@ -1,6 +1,6 @@
 # Data for the French election Blog post
 
-See the original post here:
+See the original post here: http://wp.me/p2SacB-sm
 
 Note that the original data are available here: https://www.data.gouv.fr/fr/datasets/elections-presidentielles-1965-2012-1/
 
